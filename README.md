@@ -1,2 +1,2 @@
 # Weather_App
-Aplicacion Clima
+Aplicacion que muestra el Clima de la ciudad ingresada en la caja de texto
